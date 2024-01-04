@@ -12,10 +12,10 @@ public class Main {
         //System.out.println(supriya.name);
 
 
-//Clone() copies the values of an object to another
-//If we create another object by new keyword and assign the values of
-// another object to this one, it will require a lot of processing on this object.
-// So to save the extra processing task we use clone() method.
+        //Clone() copies the values of an object to another
+        //If we create another object by new keyword and assign the values of
+        // another object to this one, it will require a lot of processing on this object.
+        // So to save the extra processing task we use clone() method.
 
         System.out.println(Arrays.toString(supriya.arr));
         supriya.arr[0]=100;

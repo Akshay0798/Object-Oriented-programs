@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ENUMS OOP" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP CLONING" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP3 ABSTRACTION_ABSTRACT CLASS" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP3 ENCAPSULATION" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP3 INHERITANCE" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP3 POLYMORPHISM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOP6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SUPER KEYWORD OOP" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
